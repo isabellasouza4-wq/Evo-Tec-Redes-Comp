@@ -4,3 +4,4 @@ O projeto demonstra o uso prático de fundamentos do desenvolvimento Web, inclui
 HTML5: Estruturação de conteúdo com cabeçalhos, parágrafos e links.<br>
 Elementos Semânticos: Uso de citações, listas ordenadas e não ordenadas, além de inserção de imagens.<br>
 Navegação: Sistema de links internos entre os arquivos index.html, historia.html e futuro.html.<br>
+<a href="https://isabellasouza4-wq.github.io/Evo-Tec-Redes-Comp/"> Acesso ao Site </a>
